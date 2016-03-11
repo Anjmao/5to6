@@ -1,0 +1,159 @@
+[
+  {
+    "type": "FunctionDeclaration",
+    "id": {
+      "type": "Identifier",
+      "name": "Main",
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 17
+        },
+        "end": {
+          "line": 2,
+          "column": 21
+        },
+        "lines": {},
+        "indent": 8
+      }
+    },
+    "params": [],
+    "defaults": [],
+    "body": {
+      "type": "BlockStatement",
+      "body": [
+        {
+          "type": "FunctionDeclaration",
+          "id": {
+            "type": "Identifier",
+            "name": "inner1",
+            "loc": {
+              "start": {
+                "line": 3,
+                "column": 21
+              },
+              "end": {
+                "line": 3,
+                "column": 27
+              },
+              "lines": {},
+              "indent": 12
+            }
+          },
+          "params": [],
+          "defaults": [],
+          "body": {
+            "type": "BlockStatement",
+            "body": [],
+            "loc": {
+              "start": {
+                "line": 3,
+                "column": 30
+              },
+              "end": {
+                "line": 5,
+                "column": 13
+              },
+              "lines": {},
+              "indent": 12
+            }
+          },
+          "rest": null,
+          "generator": false,
+          "expression": false,
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 12
+            },
+            "end": {
+              "line": 5,
+              "column": 13
+            },
+            "lines": {},
+            "indent": 12
+          }
+        },
+        {
+          "type": "FunctionDeclaration",
+          "id": {
+            "type": "Identifier",
+            "name": "inner2",
+            "loc": {
+              "start": {
+                "line": 6,
+                "column": 21
+              },
+              "end": {
+                "line": 6,
+                "column": 27
+              },
+              "lines": {},
+              "indent": 12
+            }
+          },
+          "params": [],
+          "defaults": [],
+          "body": {
+            "type": "BlockStatement",
+            "body": [],
+            "loc": {
+              "start": {
+                "line": 6,
+                "column": 30
+              },
+              "end": {
+                "line": 8,
+                "column": 13
+              },
+              "lines": {},
+              "indent": 12
+            }
+          },
+          "rest": null,
+          "generator": false,
+          "expression": false,
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 12
+            },
+            "end": {
+              "line": 8,
+              "column": 13
+            },
+            "lines": {},
+            "indent": 12
+          }
+        }
+      ],
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 24
+        },
+        "end": {
+          "line": 9,
+          "column": 9
+        },
+        "lines": {},
+        "indent": 8
+      }
+    },
+    "rest": null,
+    "generator": false,
+    "expression": false,
+    "loc": {
+      "start": {
+        "line": 2,
+        "column": 8
+      },
+      "end": {
+        "line": 9,
+        "column": 9
+      },
+      "lines": {},
+      "indent": 8
+    }
+  }
+]
